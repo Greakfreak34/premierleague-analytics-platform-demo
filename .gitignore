@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+.pytest_cache/
+*.py[cod]
+.env
+.env.*
+.cache/
+# Generated data/model are recreated locally; public Git contains code and authored fixtures only.
+data/
+models/
+reports/
+.verification/
